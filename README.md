@@ -1,16 +1,10 @@
 # dribble_clone_design
 
-A new Flutter project.
+Simple UI clone of dribble design
 
-## Getting Started
+- Helps in understanding basic widgets
+- Use of padding and margin
+- Rows & Columns and so on.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Q U I C K   L O O K
+  <img width="1431" alt="Screenshot 2023-09-15 at 9 02 14 PM" src="https://github.com/dev-32/DribbleCloneByayush/assets/99115141/3f9bad45-3606-408d-b091-f662f4ebbfbf">
